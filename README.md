@@ -40,8 +40,3 @@ This repository contains two Jupyter notebooks analyzing and predicting fraud in
 - Jupyter Notebook
 - Required Libraries:
   - `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`, `pyspark` (for specific tasks).
-
-## Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/fraud-detection.git
